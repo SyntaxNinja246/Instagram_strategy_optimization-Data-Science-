@@ -12,4 +12,4 @@ Ultimately, the goal is to transform raw Instagram post data into meaningful, ac
 
 #  Project Report
 
-[📄 View Project Report (PDF)]("INSTAGRAM CONTENT OPTIMIZATION USING DATA ANALYSIS - (PYTHON)".pdf)
+[📄 View Project Report (PDF)](INSTAGRAM CONTENT OPTIMIZATION USING DATA ANALYSIS - (PYTHON).pdf)
