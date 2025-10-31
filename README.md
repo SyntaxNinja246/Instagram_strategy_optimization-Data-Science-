@@ -10,6 +10,7 @@ The objective of this project is to leverage data analytics to optimize Instagra
 
 Ultimately, the goal is to transform raw Instagram post data into meaningful, actionable insights through data visualization and dashboarding. The fi ndings from this analysis can inform content creators, social media managers, and businesses in making better-informed decisions that align with their engagement goals
 
-#  Project Report
+## Project Report
 
-[📄 View Project Report (PDF)](INSTAGRAM CONTENT OPTIMIZATION USING DATA ANALYSIS - (PYTHON).pdf)
+[📄 View Project Report (PDF)](INSTAGRAM%20CONTENT%20OPTIMIZATION%20USING%20DATA%20ANALYSIS%20-%20(PYTHON).pdf)
+
